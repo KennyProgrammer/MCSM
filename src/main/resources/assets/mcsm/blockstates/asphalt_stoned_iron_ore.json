@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "mcsm:block/asphalt_stoned_iron_ore" },
+            { "model": "mcsm:block/asphalt_stoned_iron_ore", "y": 90 },
+            { "model": "mcsm:block/asphalt_stoned_iron_ore", "y": 180 },
+            { "model": "mcsm:block/asphalt_stoned_iron_ore", "y": 270 }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "mcsm:block/window_1" },
+            { "model": "mcsm:block/window_1", "y": 90 },
+            { "model": "mcsm:block/window_1", "y": 180 },
+            { "model": "mcsm:block/window_1", "y": 270 }
+        ]
+    }
+}

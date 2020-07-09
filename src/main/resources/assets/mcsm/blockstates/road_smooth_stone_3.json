@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "mcsm:block/road_smooth_stone_3" }
+        ]
+    }
+}

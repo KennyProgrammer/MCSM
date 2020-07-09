@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "mcsm:block/asphalt_stoned_emerald_ore" },
+            { "model": "mcsm:block/asphalt_stoned_emerald_ore", "y": 90 },
+            { "model": "mcsm:block/asphalt_stoned_emerald_ore", "y": 180 },
+            { "model": "mcsm:block/asphalt_stoned_emerald_ore", "y": 270 }
+        ]
+    }
+}

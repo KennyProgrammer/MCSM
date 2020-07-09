@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": 
+	{
+        "all": "mcsm:block/road_smooth_stone_3"
+	}
+}

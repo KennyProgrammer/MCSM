@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "mcsm:block/asphalt_stone_2" },
+            { "model": "mcsm:block/asphalt_stone_2", "y": 90 },
+            { "model": "mcsm:block/asphalt_stone_2", "y": 180 },
+            { "model": "mcsm:block/asphalt_stone_2", "y": 270 }
+        ]
+    }
+}
